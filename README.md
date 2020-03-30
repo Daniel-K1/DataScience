@@ -1,1 +1,1 @@
-# DataSicence repository for Data Workshop challenges
+# DataScience repository for Data Workshop challenges
