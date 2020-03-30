@@ -1,2 +1,1 @@
-# daniel-mobilny-biznes.pl
-DataScience
+# DataSicence repository for Data Workshop challenges
